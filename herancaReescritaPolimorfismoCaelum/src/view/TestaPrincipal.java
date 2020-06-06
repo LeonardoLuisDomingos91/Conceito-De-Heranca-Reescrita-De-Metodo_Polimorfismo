@@ -1,8 +1,8 @@
 package view;
 
-import herancaReescritaPolimorfismoCaelum.Diretor;
-import herancaReescritaPolimorfismoCaelum.Funcionario;
-import herancaReescritaPolimorfismoCaelum.Gerente;
+import model.Diretor;
+import model.Funcionario;
+import model.Gerente;
 import service.ControleDeBonificacoes;
 
 public class TestaPrincipal {

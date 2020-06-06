@@ -1,6 +1,6 @@
 package service;
 
-import herancaReescritaPolimorfismoCaelum.Funcionario;
+import model.Funcionario;
 
 public class ControleDeBonificacoes {
 	
